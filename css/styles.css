@@ -1,0 +1,63 @@
+.list{
+    list-style-type: none;
+}
+
+.link{
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
+
+/*======= PAGE HEADER =======*/
+.logotype{
+    
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1.16; 
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: var(--iris, #4D5AE5);
+    .text-logotype{
+        color: #4D5AE5;
+    }
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1.16; 
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: var(--navyblue, #2E2F42);
+    }
+
+    .menu-link{
+        /* Body Medium */
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.32px;
+        color: var(--navyblue, #2E2F42);
+
+        color: var(--navyblue, #2E2F42); /* Body Medium */
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.32px;
+
+        /* Body Medium */
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.32px;
+        color: var(--navyblue, #2E2F42);
+
+    }
+
+/*======= /PAGE HEADER ======*/
